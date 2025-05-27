@@ -2,6 +2,7 @@
 Um temporizador simples desenvolvido em Python que permite ao usuário definir um tempo em segundos e faz uma contagem regressiva diretamente no terminal. Ideal para te ajudar em tarefas, estudos, exercícios, ciclos de foco, entre outros.
 
 🚀 Funcionalidades
+
 ✅ Entrada de tempo em segundos.
 
 ✅ Conversão automática para minutos e segundos.
